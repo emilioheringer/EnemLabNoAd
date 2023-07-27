@@ -4,7 +4,7 @@ $RNFirebaseAsStaticFramework = true
 platform :ios, '11.0'
 install! 'cocoapods', :deterministic_uuids => false
 
-target 'enem' do
+target 'enemnoad' do
   config = use_native_modules!
   use_frameworks!
   # Flags change depending on the env values.
@@ -19,7 +19,7 @@ target 'enem' do
     :app_path => "#{Pod::Config.instance.installation_root}/.."
   )
 
-  target 'enemTests' do
+  target 'enemnoadTests' do
     inherit! :complete
     use_frameworks!
     # Pods for testing

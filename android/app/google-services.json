@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "867893303717-1v4tao28eaks8d79r70dmd7to8g72tlj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.purovoodootech.enem",
+            "certificate_hash": "c4bd13d9f515d569569c95c31d70e193fd7c34be"
+          }
+        },
+        {
           "client_id": "867893303717-f1l2pf7b3c8stg23l8rg345lqrg6gico.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
@@ -29,6 +37,18 @@
             "package_name": "com.purovoodootech.enem",
             "certificate_hash": "9d6292c33bafefbe2665aca03f8f380d535a088d"
           }
+        },
+        {
+          "client_id": "867893303717-qd66tf3ffseoufqu6i8ddv2ilaumdhuc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.purovoodootech.enem",
+            "certificate_hash": "ba51f06ef1090ccf06bb83d200c405a6166df9d2"
+          }
+        },
+        {
+          "client_id": "867893303717-qeltctcj3ooal16urp74pr85ncbsuuq4.apps.googleusercontent.com",
+          "client_type": 3
         }
       ],
       "api_key": [
@@ -42,11 +62,86 @@
             {
               "client_id": "867893303717-qeltctcj3ooal16urp74pr85ncbsuuq4.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "867893303717-2nkpi4lnilq8hg8ocud3ijcju9o721is.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.purovoodootech.enem"
+              }
             }
           ]
         }
       },
       "admob_app_id": "ca-app-pub-4345868011917274~4277037224"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867893303717:android:ed989fefc21b1413a8f04c",
+        "android_client_info": {
+          "package_name": "com.purovoodootech.enemnoad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867893303717-dre5side4llvfddll10d63j0jsfgkgqm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.purovoodootech.enemnoad",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "867893303717-gda85l89tr0gv1q9uqokdsqklurk86er.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.purovoodootech.enemnoad",
+            "certificate_hash": "ba51f06ef1090ccf06bb83d200c405a6166df9d2"
+          }
+        },
+        {
+          "client_id": "867893303717-go81n3jlv3lkeoi2bcvk9r0ac32jj4dc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.purovoodootech.enemnoad",
+            "certificate_hash": "c4bd13d9f515d569569c95c31d70e193fd7c34be"
+          }
+        },
+        {
+          "client_id": "867893303717-mnmf3e837dpc8986ge8864jbg2r7viv4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.purovoodootech.enemnoad",
+            "certificate_hash": "9d6292c33bafefbe2665aca03f8f380d535a088d"
+          }
+        },
+        {
+          "client_id": "867893303717-qeltctcj3ooal16urp74pr85ncbsuuq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn5mFFxawzmq103FM1sjb7TTPFRofe9cA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867893303717-qeltctcj3ooal16urp74pr85ncbsuuq4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "867893303717-2nkpi4lnilq8hg8ocud3ijcju9o721is.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.purovoodootech.enem"
+              }
+            }
+          ]
+        }
+      }
     }
   ],
   "configuration_version": "1"

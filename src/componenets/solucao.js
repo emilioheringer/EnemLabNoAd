@@ -11,16 +11,6 @@ const interstitial = InterstitialAd.createForAdRequest('ca-app-pub-4345868011917
 export default function Solucao(props) {
     const [loaded, setLoaded] = useState(false);
 
-    useEffect(() => {
-        const unsubscribe = interstitial.addAdEventListener(AdEventType.LOADED, () => {
-            setLoaded(true)
-        })
-
-        interstitial.load();
-
-        return () => unsubscribe();
-    }, [])
-
 
     const conditionalRender = () => {
         const regex = /(https?:\/\/(?:www\.|(?!www))[a-zA-Z0-9][a-zA-Z0-9-]+[a-zA-Z0-9]\.[^\s]{2,}|www\.[a-zA-Z0-9][a-zA-Z0-9-]+[a-zA-Z0-9]\.[^\s]{2,}|https?:\/\/(?:www\.|(?!www))[a-zA-Z0-9]+\.[^\s]{2,}|www\.[a-zA-Z0-9]+\.[^\s]{2,})/;
@@ -47,7 +37,6 @@ export default function Solucao(props) {
         return <ScrollView style={{ backgroundColor: '#fff' }} persistentScrollbar={true}>{showResult}</ScrollView>;
     }
 
-    if (loaded) { interstitial.show() }
     return (conditionalRender());
 
 }

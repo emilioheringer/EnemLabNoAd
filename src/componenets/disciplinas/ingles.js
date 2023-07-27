@@ -25,7 +25,6 @@ export default function Ingles(){
     );
 }
 function InglesScreen({navigation}){
-     const adUnitId = 'ca-app-pub-4345868011917274/9806594256'
      //const adUnitId = __DEV__ ? TestIds.BANNER : 'ca-app-pub-3940256099942544/6300978111';
     return(
         <ScrollView style={styles.container} persistentScrollbar={true}>

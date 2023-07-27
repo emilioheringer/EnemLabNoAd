@@ -1,9 +1,9 @@
-package com.purovoodootech.enem;
+package com.purovoodootech.enemnoad;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
 import com.facebook.react.ReactRootView;
-import com.purovoodootech.enem.BuildConfig;
+import com.purovoodootech.enemnoad.BuildConfig;
 
 public class MainActivity extends ReactActivity {
 
@@ -13,7 +13,7 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "enem";
+    return "enemnoad";
   }
 
   /**

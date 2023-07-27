@@ -1,4 +1,4 @@
-package com.purovoodootech.enem.newarchitecture;
+package com.purovoodootech.enemnoad.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.EmptyReactNativeConfig;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.purovoodootech.enem.BuildConfig;
-import com.purovoodootech.enem.newarchitecture.components.MainComponentsRegistry;
-import com.purovoodootech.enem.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.purovoodootech.enemnoad.BuildConfig;
+import com.purovoodootech.enemnoad.newarchitecture.components.MainComponentsRegistry;
+import com.purovoodootech.enemnoad.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

@@ -35,12 +35,12 @@ android_library(
 
 android_build_config(
     name = "build_config",
-    package = "com.purovoodootech.enem",
+    package = "com.purovoodootech.enemnoad",
 )
 
 android_resource(
     name = "res",
-    package = "com.purovoodootech.enem",
+    package = "com.purovoodootech.enemnoad",
     res = "src/main/res",
 )
 
