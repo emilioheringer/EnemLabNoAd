@@ -1,0 +1,53 @@
+{
+  "project_info": {
+    "project_number": "867893303717",
+    "firebase_url": "https://enem-8afd6-default-rtdb.firebaseio.com",
+    "project_id": "enem-8afd6",
+    "storage_bucket": "enem-8afd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867893303717:android:954c3b81bdd5958fa8f04c",
+        "android_client_info": {
+          "package_name": "com.purovoodootech.enem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867893303717-f1l2pf7b3c8stg23l8rg345lqrg6gico.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.purovoodootech.enem",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "867893303717-p5nuc176eankma6hiqn656m5uj7rqhf7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.purovoodootech.enem",
+            "certificate_hash": "9d6292c33bafefbe2665aca03f8f380d535a088d"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn5mFFxawzmq103FM1sjb7TTPFRofe9cA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867893303717-qeltctcj3ooal16urp74pr85ncbsuuq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4345868011917274~4277037224"
+    }
+  ],
+  "configuration_version": "1"
+}
